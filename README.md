@@ -36,9 +36,11 @@ Here are some ideas to get you started:
 
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/vvsd-charan-0938b81bb/">LinkedIn </a> 
   
-- 🙂 I am looking forward to join, work for an organisation and use my skill sets to my level best and contribute for the team . 
+- 🙂 2023 Goals : Learn new skills and make projects on them.
 
-- 👯 I’m looking to collaborate with passionate web developers for building projects on web development.
+- 👯 I’m looking to collaborate with other enthusiasts.
+
+- ✊ Learning never ends, so does my enthusiasm .
 <!--
 
 Here are some ideas to get you started:
