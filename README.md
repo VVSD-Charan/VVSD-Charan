@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm  VVSD CHARAN</h1>
 
 <h3 align="center">I am an undergraduate student majoring in Computer Science and Engineering from IIITDM Jabalpur</h3>
-<h4 align="center">I am a WEB DEVELOPER and a COMPETITIVE PROGRAMMER</h4>
+<h3 align="center">I am a WEB DEVELOPER and a COMPETITIVE PROGRAMMER</h3>
 
 - 🌱 I’m currently learning SYSTEM DESIGN
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach me out by sending a mail to vvsdcharan2001@gmail.com
 
-- ⚡ Fun fact 🙃 I love to work 🙃
+- ⚡ Fun fact " I love to work "
 
 - ⭐ I am rated as a specialist on codeforces and  4 star on codechef.
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/vvsd-charan-0938b81bb/">LinkedIn </a> 
   
-
+- 🙂 I am looking forward to join, work for an organisation and use my skill sets to my level best and contribute for the team . 
 <!--
 
 Here are some ideas to get you started:
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
-My major interest and strength lie in Web development , Competitive programming and Data structures. I thrive to showcase my skills and build trust in my clients by going the extra mile for them. I am self-motivated and love to work on the most challenging tasks. I aim to fulfill the assigned requirements and make assure to offer complete dedication to the task in my hands.
+My major interest and strength lie in <strong>Web development</strong> , <strong>Competitive programming</strong> and <strong>Data structures</strong>. I thrive to showcase my skills and build trust in my clients by going the extra mile for them. I am <strong>self-motivated</strong> and love to work on the most challenging tasks. I aim to fulfill the assigned requirements and make assure to offer complete dedication to the task in my hands.
 
 
 📈 *My GitHub Status*:  
