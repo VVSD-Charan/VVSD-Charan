@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm  VVSD CHARAN</h1>
 
-<h3 align="center">A passionate FULLSTACK DEVELOPER and PROBLEM SOLVER  from India</h3>
+<h3 align="center">I am an undergraduate student majoring in Computer Science and Engineering from IIITDM Jabalpur</h3>
+<h4 align="center">I am a WEB DEVELOPER and a COMPETITIVE PROGRAMMER</h4>
 
 - 🌱 I’m currently learning SYSTEM DESIGN
 
