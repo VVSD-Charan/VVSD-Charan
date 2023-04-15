@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm  VVSD CHARAN</h1>
 
-<h3 align="center">I am an undergraduate student majoring in Computer Science and Engineering from IIITDM Jabalpur</h3>
+<h3 align="center">I am an UnderGraduate student Majoring in Computer Science and Engineering from IIITDM Jabalpur</h3>
 <h3 align="center">I am a WEB DEVELOPER and a COMPETITIVE PROGRAMMER</h3>
 
 - 🌱 I’m currently learning SYSTEM DESIGN
