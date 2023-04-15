@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm  VVSD CHARAN</h1>
+
 <h3 align="center">A passionate FULLSTACK DEVELOPER and PROBLEM SOLVER  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanha638&label=Profile%20views&color=0e75b6&style=flat" alt="kanha638" /> </p>
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vvsd-charan-0938b81bb/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D03AQGW39Qd4pmKQQ/profile-displayphoto-shrink_400_400/0/1680095682178?e=1686787200&v=beta&t=3Q787tN9tEqeZMINn5Mlb-3jLEu76LK-DWonDYahuLk" alt="VVSD-Charan" height="300" width="400" /></a>
+<a href="https://www.linkedin.com/in/vvsd-charan-0938b81bb/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D03AQGW39Qd4pmKQQ/profile-displayphoto-shrink_400_400/0/1680095682178?e=1686787200&v=beta&t=3Q787tN9tEqeZMINn5Mlb-3jLEu76LK-DWonDYahuLk" alt="VVSD-Charan" height="300" width="400" border-radius="100%"/></a>
 <a href="https://www.instagram.com/vvs.dc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="VVSD-Charan" height="30" width="40" /></a>
   
 
