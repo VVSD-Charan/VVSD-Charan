@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vvsd-charan-0938b81bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VVSD-Charan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vvsd-charan-0938b81bb/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D03AQGW39Qd4pmKQQ/profile-displayphoto-shrink_400_400/0/1680095682178?e=1686787200&v=beta&t=3Q787tN9tEqeZMINn5Mlb-3jLEu76LK-DWonDYahuLk" alt="VVSD-Charan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vvs.dc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="VVSD-Charan" height="30" width="40" /></a>
   
 
