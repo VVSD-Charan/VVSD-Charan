@@ -31,13 +31,15 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact " I love to work "
 
-- ⭐ I am rated as a specialist on codeforces and  4 star on codechef.
+- ⭐ I am rated as a <strong>specialist</strong> on codeforces and  <strong>4 star</strong> on codechef.
 
 - 🤔 I always strive to solve problems in much more optimized way by using algorithmic skills.
 
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/vvsd-charan-0938b81bb/">LinkedIn </a> 
   
 - 🙂 I am looking forward to join, work for an organisation and use my skill sets to my level best and contribute for the team . 
+
+- 👯 I’m looking to collaborate with passionate web developers for building projects on web development.
 <!--
 
 Here are some ideas to get you started:
