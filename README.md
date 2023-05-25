@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align="center">I am an UnderGraduate student Majoring in Computer Science and Engineering from IIITDM Jabalpur</h3>
 <h3 align="center">I am a WEB DEVELOPER and a COMPETITIVE PROGRAMMER</h3>
 
-- 🌱 I’m currently learning SYSTEM DESIGN
+- 🌱 I’m currently learning Laravel.
 
 - 💬 Feel free to ask me about COMPETITIVE PROGRAMMING and WEB DEVELOPMENT
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
-My major interest and strength lie in <strong>Web development</strong> , <strong>Competitive programming</strong> and <strong>Data structures</strong>. I thrive to showcase my skills and build trust in my clients by going the extra mile for them. I am <strong>self-motivated</strong> and love to work on the most challenging tasks. I aim to fulfill the assigned requirements and make assure to offer complete dedication to the task in my hands.
+My major interest and strength lie in <strong>Web development</strong> , <strong>Competitive programming</strong> , <strong>Data structures and Algorithms</strong>. I thrive to showcase my skills and build trust in my clients by going the extra mile for them. I am <strong>self-motivated</strong> and love to work on the most challenging tasks. I aim to fulfill the assigned requirements and make assure to offer complete dedication to the task in my hands.
 
 
 📈 *My GitHub Status*:  
