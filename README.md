@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align="center">I am an UnderGraduate student Majoring in Computer Science and Engineering from IIITDM Jabalpur</h3>
 <h3 align="center">I am a WEB DEVELOPER and a COMPETITIVE PROGRAMMER</h3>
 
-- 🌱 I’m currently learning Laravel.
+- 🌱 I’m currently learning System Design.
 
 - 💬 Don't hesitate to approach me with any inquiries regarding competitive programming or web development—I'm here to help!
 
