@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm  VVSD CHARAN</h1>
 
 <h3 align="center">I am an UnderGraduate student Majoring in Computer Science and Engineering from IIITDM Jabalpur</h3>
-<h3 align="center">I am a WEB DEVELOPER and a COMPETITIVE PROGRAMMER</h3>
+<h3 align="center">I am a <strong> Full stack Web developer  </strong> and a <strong> Competitive Programmer </strong></h3>
 
 - 🌱 I’m currently learning System Design.
+
+- I am an enthusiastic web developer with expertise in the MERN stack development and proficient in PHP development, skilled in working with SQL databases.
 
 - 💬 Don't hesitate to approach me with any inquiries regarding competitive programming or web development—I'm here to help!
 
