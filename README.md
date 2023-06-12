@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🤔 I constantly endeavor to employ my algorithmic skills to solve problems in the most optimized manner possible.
 
-- 💼 Connect with me on <a href="https://www.linkedin.com/in/vvsd-charan-0938b81bb/">LinkedIn </a> 
+- 💼 Connect with me on <a href="https://www.linkedin.com/in/vvsd-charan-0938b81bb/" target="_blank">LinkedIn </a> 
   
 - 🙂 2023 Goals : Learn new skills and make projects using  them.
 
