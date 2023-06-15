@@ -4,15 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvsd-charan&label=Profile%20views&color=0e75b6&style=flat" alt="vvsd-charan" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VVSD-Charan](https://github.com/VVSD-Charan)
 
-- 💬 Ask me about **JavaScript , C++ , SQL**
+- 💬 Ask me about **JavaScript , C++ , SQL , Competitive programming **.
 
 - 📫 How to reach me **20bcs244@iiitdmj.ac.in**
 
 - ⚡ Fun fact **I love to work**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
