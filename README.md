@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I love to work**
 
+- 👯 I’m looking to collaborate with passionate web developers.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
