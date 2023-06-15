@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VVSD-Charan](https://github.com/VVSD-Charan)
 
-- 💬 Ask me about **JavaScript , C++ , SQL , Competitive programming **.
+- 💬 Ask me about **JavaScript , C++ , SQL , Competitive programming**
 
 - 📫 How to reach me **20bcs244@iiitdmj.ac.in**
 
