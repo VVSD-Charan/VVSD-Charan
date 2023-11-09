@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React and System Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VVSD-Charan](https://github.com/VVSD-Charan)
+- 👨‍💻 My Portfolio :  https://vvsd-charan.netlify.app/
 
 - 💬 Ask me about **JavaScript , C++ , SQL , Competitive programming**
 
