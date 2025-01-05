@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br><br>I am a full stack developer trying to change my domain into AI-ML engineer. I am proficient in GenAI. I have knowledge of LangGraph (creating agent and multi-agent applications), LangChain, LlamaIndex, Prompt Engineering and RAG (Retrieval Augmented Generation). I am a Microsoft certified  Azure AI Engineer Associate. <br><br>Currently I am learning Lang Graph to create multi-agent LLM applications. Looking forward to collaborate with people who have experience in AI and enthusiasts who are learning like me.</h2>
+<h2 align="left">Hi 👋! <br><br>As a full-stack developer transitioning into the field of AI/ML engineering, I possess a strong foundation in foundational AI/ML concepts. My experience extends to Generative AI, where I have actively worked with and gained proficiency in LangGraph (for developing agent and multi-agent applications), LangChain, LlamaIndex, Prompt Engineering, and Retrieval Augmented Generation (RAG). I am also a Microsoft Certified Azure AI Engineer Associate, validating my expertise in Azure AI services.</h2> <br>
 
 ###
 
